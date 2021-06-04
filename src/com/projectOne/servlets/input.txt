@@ -1,0 +1,3 @@
+Hello guys
+welcome to spark session
+this spark session explains how to write standalone application in spark
